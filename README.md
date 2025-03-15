@@ -6,12 +6,12 @@
 
 # 🚀 About Me
 - 🎓 I'm a Bachelor's student in **Computer Science** with a keen interest in **Artificial Intelligence**, **Machine Learning**, **Data Analytics** and **Game Development**. 
-- Currently **Game Dev 🎮 Intern** at **Al-Khawarizmi Institute of Computer Science** (*KICS*), UET Lahore
+- Been a **Game Dev 🎮 Intern** at **Al-Khawarizmi Institute of Computer Science** (*KICS*), UET Lahore
 
 # ⚡ Fun Facts
 - 💻 I am a **tech enthusiast** who loves diving into various projects and learning **new technologies**.
 - 🌱 I’m currently learning and exploring the vast field of **Machine Learning**.
-- 🎮 I have a passion for **Game Development**.
+- 🎮 I have a passion for **Gaming**.
 - 💡 I enjoy working on innovative projects and constantly pushing the **boundaries of technology**.
 
 >In my **free time**, you can find me playing and analyzing the **latest video games** or tinkering with various tech projects that combine my interests in **Data Analytics**, **AI**, **ML**, and **Game Development**.
